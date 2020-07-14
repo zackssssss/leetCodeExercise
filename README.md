@@ -1,3 +1,3 @@
 # leetCodeExercise
 
-自己再leetCode 上的刷题记录
+自己在leetCode 上的刷题记录
